@@ -1,7 +1,7 @@
 
 import inquirer from 'inquirer';
 import chalk from 'chalk'
-import resume from '/Users/oluwasegunadepoju/Desktop/vsc/personal/npm-resume/common/resume.json';
+import resume from '../common/resume.json';
 
 const greenResponse = chalk.bold.green;
 const redResponse = chalk.bold.red;

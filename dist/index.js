@@ -4,7 +4,7 @@ var _inquirer = _interopRequireDefault(require("inquirer"));
 
 var _chalk = _interopRequireDefault(require("chalk"));
 
-var _resume = _interopRequireDefault(require("/Users/oluwasegunadepoju/Desktop/vsc/personal/npm-resume/common/resume.json"));
+var _resume = _interopRequireDefault(require("../common/resume.json"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
