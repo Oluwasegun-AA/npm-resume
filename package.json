@@ -46,9 +46,5 @@
     "inquirer": "6.4.1",
     "rimraf": "2.6.3"
   },
-  "devDependencies": {
-    "eslint": "5.3.0",
-    "eslint-config-airbnb-base": "13.1.0",
-    "eslint-plugin-import": "2.18.0"
-  }
+  "devDependencies": {}
 }
