@@ -30,6 +30,7 @@ Terminal based Resume
 
 - $ `npm i resume-segun`
 - type `segun` on the terminal
+- interact with the options as displayed
 
 ## Contributing
 >  Feel free to 🍴 fork this repository
