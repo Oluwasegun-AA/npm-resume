@@ -22,9 +22,10 @@
   "author": "Adépòjù Olúwásêgun <oluwasegunadepoju@gmail.com> (https://shegsteham.github.io/)",
   "directories": {},
   "bin": {
-    "<segun>": "./index.js"
+    "segun": "dist/index.js"
   },
   "files": [
+    "dist",
     "LICENSE.md",
     "README.md"
   ],
