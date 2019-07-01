@@ -2,8 +2,6 @@
 
 ## Table of Contents
 
-## Table of Contents
-
 * [Project Overview](#Project-Overview)
 * [Demo](#demo)
 * [Built with](#built-with)
