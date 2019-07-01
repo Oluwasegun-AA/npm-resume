@@ -1,10 +1,9 @@
 
 import inquirer from 'inquirer';
 import chalk from 'chalk'
-import resume from '../common/resume.json';
+import resume from './common/resume';
 
 const greenResponse = chalk.bold.green;
-const redResponse = chalk.bold.red;
 
 const resumePrompts = {
   type: "list",

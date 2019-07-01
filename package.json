@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run build && node ./dist/index.js",
-    "build": "npm run clear && babel src/**.js -d dist",
-    "clear": "rimraf dist"
+    "build": "npm run clear && babel src/ -d dist",
+    "clear": "rimraf dist/index.js"
   },
   "keywords": [
     "resume",
