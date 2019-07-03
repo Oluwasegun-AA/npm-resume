@@ -11,7 +11,7 @@
 * [Contributing](#contributing)
 * [License](#License)
 
-#Project-Overview
+# Project-Overview
 Terminal based Resume
 
 ## Demo
